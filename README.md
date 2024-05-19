@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamadmuthawakal@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Be a rabbit not a turtle
+- ⚡ Fun fact: Be a rabbit not a turtle rv
 
 <!---
 Mutawakal/Mutawakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
